@@ -1,3 +1,12 @@
-# sb1-pnoymgzk
+## 🧪 Run locally
+```bash
+npm install
+npm run dev
+# 🌿 OATH — Decentralized ML Protocol
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/KaelDrifts/sb1-pnoymgzk)
+**OATH** is an open protocol for distributing, verifying, and monetizing machine learning workloads through a decentralized and trustless compute network.
+
+## 🚀 Stack
+- React + Tailwind CSS
+- Fully responsive, modular UI architecture
+- Designed for scalability and transparency in AI infrastructure
